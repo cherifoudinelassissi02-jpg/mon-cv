@@ -1,1 +1,48 @@
-:/* styles du CV */
+/* styles du CV - ISSOLA LASSISSI */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px 40px;
+  background: #f4f6f9;
+  color: #222;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #1a2a4a;
+  font-size: 32px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  border-bottom: 3px solid #1a2a4a;
+  padding-bottom: 10px;
+}
+
+h2 {
+  color: #2c5282;
+  font-weight: 400;
+  font-size: 18px;
+  margin-top: 0;
+}
+
+h3 {
+  color: #1a2a4a;
+  background: #e2e8f0;
+  padding: 8px 12px;
+  border-left: 4px solid #2c5282;
+  margin-top: 30px;
+}
+
+ul {
+  background: white;
+  padding: 20px 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+p {
+  background: white;
+  padding: 15px 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
